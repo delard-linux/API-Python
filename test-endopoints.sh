@@ -21,4 +21,4 @@ echo "Test Delete: "
 curl -X DELETE https://x0gyntrnw8.execute-api.us-east-1.amazonaws.com/dev/todos/6e9b9686-68b2-11eb-876d-ad870f88a010
 
 echo " "
-echo "FIN TESTS de ENDPOINTS prueba para forzar el stage"
+echo "FIN TESTS de ENDPOINTS prueba para forzar el stage 2"
